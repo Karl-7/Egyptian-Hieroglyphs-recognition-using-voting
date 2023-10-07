@@ -1,6 +1,4 @@
 # Egyptian-Hieroglyphs
-This project includes a preprocess file and compares different model performances, including CNN.ResNet and GoogLeNet V2.
-The project has 4 co-workers, and their accounts can be found through the listed names on Github:
-1. me
-2. King-141319
-3. 
+This project includes a preprocess file and compares the self-modified voting mechanism with existing Resnet18 and Googlenet.
+Please only look at these 3 files: resnet.py, googlenet.py and Sparrownet_V5.py.
+All other files are useless and outdated now
